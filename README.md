@@ -1,4 +1,5 @@
-![Banner](https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg)
+![68747470733a2f2f6765656b666c6172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f4c6561726e2d436f64696e672d696e2d612d46756e2d5761792d6f6e2d54686573652d372d506c6174666f726d732e6a706567](https://github.com/kxn69/kxn69/assets/113647454/370ca4f4-8b94-407b-86f8-f47b4fa3326b)
+
 <h1 align="center">Hi 👋, I'm Ariyo Kunmi Matthew</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding image" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477t62zsbpba3jo0d90ce2vznz7s93y5zaiv9n1hc8&ep=v1_gifs_search&rid=giphy.gif&ct=g">

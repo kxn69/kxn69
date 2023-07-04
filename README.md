@@ -1,5 +1,5 @@
 ![Banner](https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg)
-<h1 align="center">Hi 👋, I'm Ariyo Matthew</h1>
+<h1 align="center">Hi 👋, I'm Ariyo Kunmi Matthew</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding image" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477t62zsbpba3jo0d90ce2vznz7s93y5zaiv9n1hc8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxn69&label=Profile%20views&color=0e75b6&style=flat" alt="kxn69" /> </p>
